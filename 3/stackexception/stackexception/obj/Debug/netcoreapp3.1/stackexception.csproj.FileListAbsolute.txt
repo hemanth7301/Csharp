@@ -1,0 +1,13 @@
+/Users/sakhamurisaihemanth/Desktop/C#/4/stackexception/stackexception/obj/Debug/netcoreapp3.1/stackexception.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/4/stackexception/stackexception/obj/Debug/netcoreapp3.1/stackexception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/4/stackexception/stackexception/obj/Debug/netcoreapp3.1/stackexception.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/4/stackexception/stackexception/obj/Debug/netcoreapp3.1/stackexception.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/4/stackexception/stackexception/obj/Debug/netcoreapp3.1/stackexception.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/4/stackexception/stackexception/bin/Debug/netcoreapp3.1/stackexception.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/4/stackexception/stackexception/bin/Debug/netcoreapp3.1/stackexception.runtimeconfig.json
+/Users/sakhamurisaihemanth/Desktop/C#/4/stackexception/stackexception/bin/Debug/netcoreapp3.1/stackexception.runtimeconfig.dev.json
+/Users/sakhamurisaihemanth/Desktop/C#/4/stackexception/stackexception/bin/Debug/netcoreapp3.1/stackexception.dll
+/Users/sakhamurisaihemanth/Desktop/C#/4/stackexception/stackexception/bin/Debug/netcoreapp3.1/stackexception.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/4/stackexception/stackexception/obj/Debug/netcoreapp3.1/stackexception.dll
+/Users/sakhamurisaihemanth/Desktop/C#/4/stackexception/stackexception/obj/Debug/netcoreapp3.1/stackexception.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/4/stackexception/stackexception/obj/Debug/netcoreapp3.1/stackexception.genruntimeconfig.cache

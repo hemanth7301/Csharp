@@ -1,0 +1,13 @@
+/Users/sakhamurisaihemanth/Desktop/C#/3/MyStack/MyStack/bin/Debug/netcoreapp3.1/MyStack.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/3/MyStack/MyStack/bin/Debug/netcoreapp3.1/MyStack.runtimeconfig.json
+/Users/sakhamurisaihemanth/Desktop/C#/3/MyStack/MyStack/bin/Debug/netcoreapp3.1/MyStack.runtimeconfig.dev.json
+/Users/sakhamurisaihemanth/Desktop/C#/3/MyStack/MyStack/bin/Debug/netcoreapp3.1/MyStack.dll
+/Users/sakhamurisaihemanth/Desktop/C#/3/MyStack/MyStack/bin/Debug/netcoreapp3.1/MyStack.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/3/MyStack/MyStack/obj/Debug/netcoreapp3.1/MyStack.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/3/MyStack/MyStack/obj/Debug/netcoreapp3.1/MyStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/3/MyStack/MyStack/obj/Debug/netcoreapp3.1/MyStack.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/3/MyStack/MyStack/obj/Debug/netcoreapp3.1/MyStack.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/3/MyStack/MyStack/obj/Debug/netcoreapp3.1/MyStack.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/3/MyStack/MyStack/obj/Debug/netcoreapp3.1/MyStack.dll
+/Users/sakhamurisaihemanth/Desktop/C#/3/MyStack/MyStack/obj/Debug/netcoreapp3.1/MyStack.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/3/MyStack/MyStack/obj/Debug/netcoreapp3.1/MyStack.genruntimeconfig.cache

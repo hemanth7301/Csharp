@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{90AA510B-6DD6-430F-9157-4FE8E9613D88}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="avg/Program.cs">
+    <Files>
+      <File FileName="avg/Program.cs" Line="37" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="avg" expanded="True">
+            <Node name="avg" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.avg PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

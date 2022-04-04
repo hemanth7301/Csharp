@@ -1,0 +1,13 @@
+/Users/sakhamurisaihemanth/Desktop/C#/1/sum/sum/bin/Debug/netcoreapp3.1/sum.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/1/sum/sum/bin/Debug/netcoreapp3.1/sum.runtimeconfig.json
+/Users/sakhamurisaihemanth/Desktop/C#/1/sum/sum/bin/Debug/netcoreapp3.1/sum.runtimeconfig.dev.json
+/Users/sakhamurisaihemanth/Desktop/C#/1/sum/sum/bin/Debug/netcoreapp3.1/sum.dll
+/Users/sakhamurisaihemanth/Desktop/C#/1/sum/sum/bin/Debug/netcoreapp3.1/sum.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/1/sum/sum/obj/Debug/netcoreapp3.1/sum.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/1/sum/sum/obj/Debug/netcoreapp3.1/sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/1/sum/sum/obj/Debug/netcoreapp3.1/sum.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/1/sum/sum/obj/Debug/netcoreapp3.1/sum.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/1/sum/sum/obj/Debug/netcoreapp3.1/sum.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/1/sum/sum/obj/Debug/netcoreapp3.1/sum.dll
+/Users/sakhamurisaihemanth/Desktop/C#/1/sum/sum/obj/Debug/netcoreapp3.1/sum.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/1/sum/sum/obj/Debug/netcoreapp3.1/sum.genruntimeconfig.cache

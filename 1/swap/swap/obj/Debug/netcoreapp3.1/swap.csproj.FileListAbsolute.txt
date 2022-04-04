@@ -1,0 +1,13 @@
+/Users/sakhamurisaihemanth/Desktop/C#/1/swap/swap/bin/Debug/netcoreapp3.1/swap.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/1/swap/swap/bin/Debug/netcoreapp3.1/swap.runtimeconfig.json
+/Users/sakhamurisaihemanth/Desktop/C#/1/swap/swap/bin/Debug/netcoreapp3.1/swap.runtimeconfig.dev.json
+/Users/sakhamurisaihemanth/Desktop/C#/1/swap/swap/bin/Debug/netcoreapp3.1/swap.dll
+/Users/sakhamurisaihemanth/Desktop/C#/1/swap/swap/bin/Debug/netcoreapp3.1/swap.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/1/swap/swap/obj/Debug/netcoreapp3.1/swap.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/1/swap/swap/obj/Debug/netcoreapp3.1/swap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/1/swap/swap/obj/Debug/netcoreapp3.1/swap.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/1/swap/swap/obj/Debug/netcoreapp3.1/swap.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/1/swap/swap/obj/Debug/netcoreapp3.1/swap.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/1/swap/swap/obj/Debug/netcoreapp3.1/swap.dll
+/Users/sakhamurisaihemanth/Desktop/C#/1/swap/swap/obj/Debug/netcoreapp3.1/swap.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/1/swap/swap/obj/Debug/netcoreapp3.1/swap.genruntimeconfig.cache

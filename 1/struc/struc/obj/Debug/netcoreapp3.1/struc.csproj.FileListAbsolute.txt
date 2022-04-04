@@ -1,0 +1,13 @@
+/Users/sakhamurisaihemanth/Desktop/C#/1/struc/struc/bin/Debug/netcoreapp3.1/struc.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/1/struc/struc/bin/Debug/netcoreapp3.1/struc.runtimeconfig.json
+/Users/sakhamurisaihemanth/Desktop/C#/1/struc/struc/bin/Debug/netcoreapp3.1/struc.runtimeconfig.dev.json
+/Users/sakhamurisaihemanth/Desktop/C#/1/struc/struc/bin/Debug/netcoreapp3.1/struc.dll
+/Users/sakhamurisaihemanth/Desktop/C#/1/struc/struc/bin/Debug/netcoreapp3.1/struc.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/1/struc/struc/obj/Debug/netcoreapp3.1/struc.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/1/struc/struc/obj/Debug/netcoreapp3.1/struc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/1/struc/struc/obj/Debug/netcoreapp3.1/struc.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/1/struc/struc/obj/Debug/netcoreapp3.1/struc.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/1/struc/struc/obj/Debug/netcoreapp3.1/struc.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/1/struc/struc/obj/Debug/netcoreapp3.1/struc.dll
+/Users/sakhamurisaihemanth/Desktop/C#/1/struc/struc/obj/Debug/netcoreapp3.1/struc.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/1/struc/struc/obj/Debug/netcoreapp3.1/struc.genruntimeconfig.cache

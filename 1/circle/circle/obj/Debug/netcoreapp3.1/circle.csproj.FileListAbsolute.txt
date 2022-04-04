@@ -1,0 +1,13 @@
+/Users/sakhamurisaihemanth/Desktop/C#/1/circle/circle/bin/Debug/netcoreapp3.1/circle.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/1/circle/circle/bin/Debug/netcoreapp3.1/circle.runtimeconfig.json
+/Users/sakhamurisaihemanth/Desktop/C#/1/circle/circle/bin/Debug/netcoreapp3.1/circle.runtimeconfig.dev.json
+/Users/sakhamurisaihemanth/Desktop/C#/1/circle/circle/bin/Debug/netcoreapp3.1/circle.dll
+/Users/sakhamurisaihemanth/Desktop/C#/1/circle/circle/bin/Debug/netcoreapp3.1/circle.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/1/circle/circle/obj/Debug/netcoreapp3.1/circle.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/1/circle/circle/obj/Debug/netcoreapp3.1/circle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/1/circle/circle/obj/Debug/netcoreapp3.1/circle.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/1/circle/circle/obj/Debug/netcoreapp3.1/circle.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/1/circle/circle/obj/Debug/netcoreapp3.1/circle.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/1/circle/circle/obj/Debug/netcoreapp3.1/circle.dll
+/Users/sakhamurisaihemanth/Desktop/C#/1/circle/circle/obj/Debug/netcoreapp3.1/circle.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/1/circle/circle/obj/Debug/netcoreapp3.1/circle.genruntimeconfig.cache

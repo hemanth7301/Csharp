@@ -1,0 +1,10 @@
+/Users/sakhamurisaihemanth/Desktop/C#/2/LitwareLib/LitwareLib/bin/Debug/netcoreapp3.1/LitwareLib.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/2/LitwareLib/LitwareLib/bin/Debug/netcoreapp3.1/LitwareLib.dll
+/Users/sakhamurisaihemanth/Desktop/C#/2/LitwareLib/LitwareLib/bin/Debug/netcoreapp3.1/LitwareLib.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/2/LitwareLib/LitwareLib/obj/Debug/netcoreapp3.1/LitwareLib.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/2/LitwareLib/LitwareLib/obj/Debug/netcoreapp3.1/LitwareLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/2/LitwareLib/LitwareLib/obj/Debug/netcoreapp3.1/LitwareLib.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/2/LitwareLib/LitwareLib/obj/Debug/netcoreapp3.1/LitwareLib.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/2/LitwareLib/LitwareLib/obj/Debug/netcoreapp3.1/LitwareLib.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/2/LitwareLib/LitwareLib/obj/Debug/netcoreapp3.1/LitwareLib.dll
+/Users/sakhamurisaihemanth/Desktop/C#/2/LitwareLib/LitwareLib/obj/Debug/netcoreapp3.1/LitwareLib.pdb

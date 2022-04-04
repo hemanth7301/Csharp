@@ -1,0 +1,13 @@
+/Users/sakhamurisaihemanth/Desktop/C#/1/avg/avg/bin/Debug/netcoreapp3.1/avg.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/1/avg/avg/bin/Debug/netcoreapp3.1/avg.runtimeconfig.json
+/Users/sakhamurisaihemanth/Desktop/C#/1/avg/avg/bin/Debug/netcoreapp3.1/avg.runtimeconfig.dev.json
+/Users/sakhamurisaihemanth/Desktop/C#/1/avg/avg/bin/Debug/netcoreapp3.1/avg.dll
+/Users/sakhamurisaihemanth/Desktop/C#/1/avg/avg/bin/Debug/netcoreapp3.1/avg.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/1/avg/avg/obj/Debug/netcoreapp3.1/avg.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/1/avg/avg/obj/Debug/netcoreapp3.1/avg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/1/avg/avg/obj/Debug/netcoreapp3.1/avg.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/1/avg/avg/obj/Debug/netcoreapp3.1/avg.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/1/avg/avg/obj/Debug/netcoreapp3.1/avg.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/1/avg/avg/obj/Debug/netcoreapp3.1/avg.dll
+/Users/sakhamurisaihemanth/Desktop/C#/1/avg/avg/obj/Debug/netcoreapp3.1/avg.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/1/avg/avg/obj/Debug/netcoreapp3.1/avg.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/sakhamurisaihemanth/Desktop/C#/5/list/list/bin/Debug/netcoreapp3.1/list.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/5/list/list/bin/Debug/netcoreapp3.1/list.runtimeconfig.json
+/Users/sakhamurisaihemanth/Desktop/C#/5/list/list/bin/Debug/netcoreapp3.1/list.runtimeconfig.dev.json
+/Users/sakhamurisaihemanth/Desktop/C#/5/list/list/bin/Debug/netcoreapp3.1/list.dll
+/Users/sakhamurisaihemanth/Desktop/C#/5/list/list/bin/Debug/netcoreapp3.1/list.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/5/list/list/obj/Debug/netcoreapp3.1/list.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/5/list/list/obj/Debug/netcoreapp3.1/list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/5/list/list/obj/Debug/netcoreapp3.1/list.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/5/list/list/obj/Debug/netcoreapp3.1/list.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/5/list/list/obj/Debug/netcoreapp3.1/list.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/5/list/list/obj/Debug/netcoreapp3.1/list.dll
+/Users/sakhamurisaihemanth/Desktop/C#/5/list/list/obj/Debug/netcoreapp3.1/list.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/5/list/list/obj/Debug/netcoreapp3.1/list.genruntimeconfig.cache

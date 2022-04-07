@@ -1,0 +1,13 @@
+/Users/sakhamurisaihemanth/Desktop/C#/5/ary_operations/ary_operations/bin/Debug/netcoreapp3.1/ary_operations.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/5/ary_operations/ary_operations/bin/Debug/netcoreapp3.1/ary_operations.runtimeconfig.json
+/Users/sakhamurisaihemanth/Desktop/C#/5/ary_operations/ary_operations/bin/Debug/netcoreapp3.1/ary_operations.runtimeconfig.dev.json
+/Users/sakhamurisaihemanth/Desktop/C#/5/ary_operations/ary_operations/bin/Debug/netcoreapp3.1/ary_operations.dll
+/Users/sakhamurisaihemanth/Desktop/C#/5/ary_operations/ary_operations/bin/Debug/netcoreapp3.1/ary_operations.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/5/ary_operations/ary_operations/obj/Debug/netcoreapp3.1/ary_operations.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/5/ary_operations/ary_operations/obj/Debug/netcoreapp3.1/ary_operations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/5/ary_operations/ary_operations/obj/Debug/netcoreapp3.1/ary_operations.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/5/ary_operations/ary_operations/obj/Debug/netcoreapp3.1/ary_operations.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/5/ary_operations/ary_operations/obj/Debug/netcoreapp3.1/ary_operations.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/5/ary_operations/ary_operations/obj/Debug/netcoreapp3.1/ary_operations.dll
+/Users/sakhamurisaihemanth/Desktop/C#/5/ary_operations/ary_operations/obj/Debug/netcoreapp3.1/ary_operations.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/5/ary_operations/ary_operations/obj/Debug/netcoreapp3.1/ary_operations.genruntimeconfig.cache

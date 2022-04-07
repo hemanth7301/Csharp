@@ -1,0 +1,13 @@
+/Users/sakhamurisaihemanth/Desktop/C#/6/bank/bank/bin/Debug/netcoreapp3.1/bank.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/6/bank/bank/bin/Debug/netcoreapp3.1/bank.runtimeconfig.json
+/Users/sakhamurisaihemanth/Desktop/C#/6/bank/bank/bin/Debug/netcoreapp3.1/bank.runtimeconfig.dev.json
+/Users/sakhamurisaihemanth/Desktop/C#/6/bank/bank/bin/Debug/netcoreapp3.1/bank.dll
+/Users/sakhamurisaihemanth/Desktop/C#/6/bank/bank/bin/Debug/netcoreapp3.1/bank.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/6/bank/bank/obj/Debug/netcoreapp3.1/bank.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/6/bank/bank/obj/Debug/netcoreapp3.1/bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/6/bank/bank/obj/Debug/netcoreapp3.1/bank.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/6/bank/bank/obj/Debug/netcoreapp3.1/bank.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/6/bank/bank/obj/Debug/netcoreapp3.1/bank.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/6/bank/bank/obj/Debug/netcoreapp3.1/bank.dll
+/Users/sakhamurisaihemanth/Desktop/C#/6/bank/bank/obj/Debug/netcoreapp3.1/bank.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/6/bank/bank/obj/Debug/netcoreapp3.1/bank.genruntimeconfig.cache

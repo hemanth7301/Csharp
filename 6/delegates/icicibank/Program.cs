@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace icicibank
+namespace bank
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }

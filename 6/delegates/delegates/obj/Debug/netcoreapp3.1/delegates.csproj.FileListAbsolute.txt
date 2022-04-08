@@ -1,0 +1,13 @@
+/Users/sakhamurisaihemanth/Desktop/C#/6/delegates/delegates/bin/Debug/netcoreapp3.1/delegates.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/6/delegates/delegates/bin/Debug/netcoreapp3.1/delegates.runtimeconfig.json
+/Users/sakhamurisaihemanth/Desktop/C#/6/delegates/delegates/bin/Debug/netcoreapp3.1/delegates.runtimeconfig.dev.json
+/Users/sakhamurisaihemanth/Desktop/C#/6/delegates/delegates/bin/Debug/netcoreapp3.1/delegates.dll
+/Users/sakhamurisaihemanth/Desktop/C#/6/delegates/delegates/bin/Debug/netcoreapp3.1/delegates.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/6/delegates/delegates/obj/Debug/netcoreapp3.1/delegates.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/6/delegates/delegates/obj/Debug/netcoreapp3.1/delegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/6/delegates/delegates/obj/Debug/netcoreapp3.1/delegates.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/6/delegates/delegates/obj/Debug/netcoreapp3.1/delegates.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/6/delegates/delegates/obj/Debug/netcoreapp3.1/delegates.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/6/delegates/delegates/obj/Debug/netcoreapp3.1/delegates.dll
+/Users/sakhamurisaihemanth/Desktop/C#/6/delegates/delegates/obj/Debug/netcoreapp3.1/delegates.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/6/delegates/delegates/obj/Debug/netcoreapp3.1/delegates.genruntimeconfig.cache

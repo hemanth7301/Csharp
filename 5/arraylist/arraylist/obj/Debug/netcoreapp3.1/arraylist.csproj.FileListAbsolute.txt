@@ -1,0 +1,13 @@
+/Users/sakhamurisaihemanth/Desktop/C#/5/arraylist/arraylist/bin/Debug/netcoreapp3.1/arraylist.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/5/arraylist/arraylist/bin/Debug/netcoreapp3.1/arraylist.runtimeconfig.json
+/Users/sakhamurisaihemanth/Desktop/C#/5/arraylist/arraylist/bin/Debug/netcoreapp3.1/arraylist.runtimeconfig.dev.json
+/Users/sakhamurisaihemanth/Desktop/C#/5/arraylist/arraylist/bin/Debug/netcoreapp3.1/arraylist.dll
+/Users/sakhamurisaihemanth/Desktop/C#/5/arraylist/arraylist/bin/Debug/netcoreapp3.1/arraylist.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/5/arraylist/arraylist/obj/Debug/netcoreapp3.1/arraylist.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/5/arraylist/arraylist/obj/Debug/netcoreapp3.1/arraylist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/5/arraylist/arraylist/obj/Debug/netcoreapp3.1/arraylist.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/5/arraylist/arraylist/obj/Debug/netcoreapp3.1/arraylist.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/5/arraylist/arraylist/obj/Debug/netcoreapp3.1/arraylist.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/5/arraylist/arraylist/obj/Debug/netcoreapp3.1/arraylist.dll
+/Users/sakhamurisaihemanth/Desktop/C#/5/arraylist/arraylist/obj/Debug/netcoreapp3.1/arraylist.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/5/arraylist/arraylist/obj/Debug/netcoreapp3.1/arraylist.genruntimeconfig.cache

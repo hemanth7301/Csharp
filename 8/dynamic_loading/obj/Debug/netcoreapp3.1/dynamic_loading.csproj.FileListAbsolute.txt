@@ -1,0 +1,10 @@
+/Users/sakhamurisaihemanth/Desktop/C#/8/dynamic_loading/bin/Debug/netcoreapp3.1/dynamic_loading.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/8/dynamic_loading/bin/Debug/netcoreapp3.1/dynamic_loading.dll
+/Users/sakhamurisaihemanth/Desktop/C#/8/dynamic_loading/bin/Debug/netcoreapp3.1/dynamic_loading.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/8/dynamic_loading/obj/Debug/netcoreapp3.1/dynamic_loading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/8/dynamic_loading/obj/Debug/netcoreapp3.1/dynamic_loading.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/8/dynamic_loading/obj/Debug/netcoreapp3.1/dynamic_loading.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/8/dynamic_loading/obj/Debug/netcoreapp3.1/dynamic_loading.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/8/dynamic_loading/obj/Debug/netcoreapp3.1/dynamic_loading.dll
+/Users/sakhamurisaihemanth/Desktop/C#/8/dynamic_loading/obj/Debug/netcoreapp3.1/dynamic_loading.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/8/dynamic_loading/obj/Debug/netcoreapp3.1/dynamic_loading.csproj.AssemblyReference.cache

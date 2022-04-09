@@ -1,0 +1,13 @@
+/Users/sakhamurisaihemanth/Desktop/C#/8/loading/bin/Debug/netcoreapp3.1/loading.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/8/loading/bin/Debug/netcoreapp3.1/loading.runtimeconfig.json
+/Users/sakhamurisaihemanth/Desktop/C#/8/loading/bin/Debug/netcoreapp3.1/loading.runtimeconfig.dev.json
+/Users/sakhamurisaihemanth/Desktop/C#/8/loading/bin/Debug/netcoreapp3.1/loading.dll
+/Users/sakhamurisaihemanth/Desktop/C#/8/loading/bin/Debug/netcoreapp3.1/loading.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/8/loading/obj/Debug/netcoreapp3.1/loading.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/8/loading/obj/Debug/netcoreapp3.1/loading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/8/loading/obj/Debug/netcoreapp3.1/loading.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/8/loading/obj/Debug/netcoreapp3.1/loading.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/8/loading/obj/Debug/netcoreapp3.1/loading.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/8/loading/obj/Debug/netcoreapp3.1/loading.dll
+/Users/sakhamurisaihemanth/Desktop/C#/8/loading/obj/Debug/netcoreapp3.1/loading.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/8/loading/obj/Debug/netcoreapp3.1/loading.genruntimeconfig.cache

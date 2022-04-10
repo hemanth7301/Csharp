@@ -4,10 +4,8 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ary_operations" expanded="True">
-            <Node name="ary_operations" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="ary_operations" expanded="True" selected="True">
+            <Node name="ary_operations" expanded="True" />
           </Node>
         </State>
       </Pad>

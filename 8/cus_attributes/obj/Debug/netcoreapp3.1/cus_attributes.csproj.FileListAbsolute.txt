@@ -1,0 +1,13 @@
+/Users/sakhamurisaihemanth/Desktop/C#/8/cus_attributes/bin/Debug/netcoreapp3.1/cus_attributes.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/8/cus_attributes/bin/Debug/netcoreapp3.1/cus_attributes.runtimeconfig.json
+/Users/sakhamurisaihemanth/Desktop/C#/8/cus_attributes/bin/Debug/netcoreapp3.1/cus_attributes.runtimeconfig.dev.json
+/Users/sakhamurisaihemanth/Desktop/C#/8/cus_attributes/bin/Debug/netcoreapp3.1/cus_attributes.dll
+/Users/sakhamurisaihemanth/Desktop/C#/8/cus_attributes/bin/Debug/netcoreapp3.1/cus_attributes.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/8/cus_attributes/obj/Debug/netcoreapp3.1/cus_attributes.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/8/cus_attributes/obj/Debug/netcoreapp3.1/cus_attributes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/8/cus_attributes/obj/Debug/netcoreapp3.1/cus_attributes.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/8/cus_attributes/obj/Debug/netcoreapp3.1/cus_attributes.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/8/cus_attributes/obj/Debug/netcoreapp3.1/cus_attributes.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/8/cus_attributes/obj/Debug/netcoreapp3.1/cus_attributes.dll
+/Users/sakhamurisaihemanth/Desktop/C#/8/cus_attributes/obj/Debug/netcoreapp3.1/cus_attributes.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/8/cus_attributes/obj/Debug/netcoreapp3.1/cus_attributes.genruntimeconfig.cache

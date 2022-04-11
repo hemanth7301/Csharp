@@ -1,0 +1,13 @@
+/Users/sakhamurisaihemanth/Desktop/C#/7/filesystem/bin/Debug/netcoreapp3.1/filesystem.deps.json
+/Users/sakhamurisaihemanth/Desktop/C#/7/filesystem/bin/Debug/netcoreapp3.1/filesystem.runtimeconfig.json
+/Users/sakhamurisaihemanth/Desktop/C#/7/filesystem/bin/Debug/netcoreapp3.1/filesystem.runtimeconfig.dev.json
+/Users/sakhamurisaihemanth/Desktop/C#/7/filesystem/bin/Debug/netcoreapp3.1/filesystem.dll
+/Users/sakhamurisaihemanth/Desktop/C#/7/filesystem/bin/Debug/netcoreapp3.1/filesystem.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/7/filesystem/obj/Debug/netcoreapp3.1/filesystem.csproj.AssemblyReference.cache
+/Users/sakhamurisaihemanth/Desktop/C#/7/filesystem/obj/Debug/netcoreapp3.1/filesystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhamurisaihemanth/Desktop/C#/7/filesystem/obj/Debug/netcoreapp3.1/filesystem.AssemblyInfoInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/7/filesystem/obj/Debug/netcoreapp3.1/filesystem.AssemblyInfo.cs
+/Users/sakhamurisaihemanth/Desktop/C#/7/filesystem/obj/Debug/netcoreapp3.1/filesystem.csproj.CoreCompileInputs.cache
+/Users/sakhamurisaihemanth/Desktop/C#/7/filesystem/obj/Debug/netcoreapp3.1/filesystem.dll
+/Users/sakhamurisaihemanth/Desktop/C#/7/filesystem/obj/Debug/netcoreapp3.1/filesystem.pdb
+/Users/sakhamurisaihemanth/Desktop/C#/7/filesystem/obj/Debug/netcoreapp3.1/filesystem.genruntimeconfig.cache
